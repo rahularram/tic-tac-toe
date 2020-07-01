@@ -5,4 +5,4 @@ Strategy used Min-Max Algorithm
 3. Max will try to maximize its utility ( Best move).
 4. Min will try to minimize its utility (Worst move).
 
-Code was written in python and we can get output on console.
+Code was written in javascript and we can just run the html.
