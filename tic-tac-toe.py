@@ -150,7 +150,7 @@ while play_again == 'Y' or play_again == 'y':
         if current_state is "Draw":
             print("Draw!")
             
-    play_again = input('Wanna try again BIYTACH?(Y/N) : ')
+    play_again = input('Wanna try again ALIEN ?(Y/N) : ')
     if play_again == 'N':
-        print('Suit yourself bitch!')
+        print('Suit yourself SIR !')
     
